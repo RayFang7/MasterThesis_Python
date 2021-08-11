@@ -1,0 +1,14 @@
+*.pkl
+*.log
+*.dict
+*.lr
+*.checkpoint
+runs/
+old_runs/
+runs_old/
+wrong/
+state_dict/
+__pycache__/
+.mypy_cache/
+train_log/
+train_log_old/

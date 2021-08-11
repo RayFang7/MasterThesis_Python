@@ -1,0 +1,8 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": [
+        "--generated-members=numpy.* ,torch.*"
+    ]
+}
